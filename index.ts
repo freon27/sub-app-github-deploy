@@ -1,4 +1,4 @@
-export { SubAppModule } from './src/sub-app.module';
-export { SubAppComponent } from './src/component/sub-app/sub-app.component';
-export { ThingsComponent } from './src/component/things/things.component';
-export { subAppChildRoutes } from './src/sub-app.routes';
+export { SubAppModule } from './lib/sub-app.module';
+export { SubAppComponent } from './lib/component/sub-app/sub-app.component';
+export { ThingsComponent } from './lib/component/things/things.component';
+export { subAppChildRoutes } from './lib/sub-app.routes';
