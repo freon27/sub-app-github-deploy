@@ -1,16 +1,16 @@
 {
-  "name": "typescript-npm-module-bootstrap",
+  "name": "sub-app",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://wittydeveloper/typescript-npm-module-bootstrap.git"
+    "url": "git@github.com:freon27/sub-app-github-deploy.git"
   },
   "main": "dist/index.js",
   "typings": "definitions/index",
   "typescript": {
     "definition": "definitions/index"
   },
-  "description": "TypeScript NPM module bootstrap ",
+  "description": "Sub app github deploy test ",
   "engineStrict": true,
   "devDependencies": {
     "@angular/common": "^5.1.1",
